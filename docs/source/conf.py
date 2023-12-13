@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Sample-Test-Package'
+copyright = '2021, pysquad'
+author = 'Suraj Patidar'
 
 release = '0.1'
 version = '0.1.0'
